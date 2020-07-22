@@ -12,7 +12,7 @@ function Todo({ todo, toggleComplete, removeTodo }) {
     <div
       style={{
         display: "flex",
-        marginLeft: "720px",
+        marginLeft: "675px",
         marginTop: "30px",
       }}
     >
